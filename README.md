@@ -23,7 +23,7 @@ Desafio: criar 30 mini projetos utilizando HTML e CSS em 30 dias
 
 ##  Desafio dia 01 - Stars Particles <a name="id01"></a>
 
-![Dia 01](https://github.com/itsmiuwu/30diasdeCSS/assets/124086216/63f1e076-06f2-400c-81cc-b8be067d92da.gif)
+![Dia 01](https://github.com/itsmiuwu/30diasdeCSS/assets/124086216/63f1e076-06f2-400c-81cc-b8be067d92da)
 
 
 <p align="center">
