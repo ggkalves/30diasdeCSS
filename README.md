@@ -30,6 +30,8 @@ Desafio: criar 30 mini projetos utilizando HTML e CSS em 30 dias
   <a href="https://github.com/itsmiuwu/30diasdeCSS/tree/main/desafios/dia1">Meu código</a>
 </p>
 
+<br>
+
 ##  Desafio dia 02 - Animated Tea Cup | CSS Animation <a name="id02"></a>
 
 ![Dia 02](https://github.com/itsmiuwu/30diasdeCSS/assets/124086216/ce656e78-39a4-4de4-baf7-24a08a4bd55e)
