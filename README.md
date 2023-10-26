@@ -40,3 +40,13 @@ Desafio: criar 30 mini projetos utilizando HTML e CSS em 30 dias
 <p align="center">
   <a href="https://github.com/itsmiuwu/30diasdeCSS/tree/main/desafios/dia2">Meu código</a>
 </p>
+
+##  Desafio dia 03 -  Simple profile Card Design with glasmorphism <a name="id03"></a>
+
+![Dia 03](https://github.com/itsmiuwu/30diasdeCSS/assets/124086216/ca092ed4-dcdf-4192-9494-7d4bbcc390ed)
+
+
+<p align="center">
+  <a href="https://github.com/itsmiuwu/30diasdeCSS/tree/main/desafios/dia3">Meu código</a>
+</p>
+
