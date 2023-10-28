@@ -50,11 +50,22 @@ Desafio: criar 30 mini projetos utilizando HTML e CSS em 30 dias
   <a href="https://github.com/itsmiuwu/30diasdeCSS/tree/main/desafios/dia3">Meu código</a>
 </p>
 
-##  Desafio dia 03 -  Simple calculator design with glasmorphism and JavaScript <a name="id03"></a>
+##  Desafio dia 04 -  Simple calculator design with glasmorphism and JavaScript <a name="id04"></a>
 
 ![Dia 04](https://github.com/itsmiuwu/30diasdeCSS/assets/124086216/f722a662-a62a-406d-97fd-6a345c777d48)
 
 
 <p align="center">
   <a href="https://github.com/itsmiuwu/30diasdeCSS/tree/main/desafios/dia4">Meu código</a>
+</p>
+
+##  Desafio dia 5 -  Simple Recipe Card with Hover Effectt <a name="id05"></a>
+
+![Dia 05](https://github.com/itsmiuwu/30diasdeCSS/assets/124086216/87a9c635-601d-47eb-a728-70f963ebaecd)
+
+
+<p align="center">
+  <a href="https://github.com/itsmiuwu/30diasdeCSS/tree/main/desafios/dia5">Meu código</a>
+  <br>
+  <a>Esse projeto pode ou não sofrer alterações no futuro.</a>
 </p>
