@@ -69,3 +69,22 @@ Desafio: criar 30 mini projetos utilizando HTML e CSS em 30 dias
   <br>
   <a>Esse projeto pode ou não sofrer alterações no futuro.</a>
 </p>
+
+
+
+##  Desafio dia 6 - Não postado no mesmo dia por falta de luz. <a name="id06"></a>
+
+![Dia 0]()
+
+
+<p align="center">
+  <a href="">Meu código</a>
+  <br>
+  <a></a>
+</p>
+
+
+
+
+
+
