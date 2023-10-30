@@ -72,17 +72,25 @@ Desafio: criar 30 mini projetos utilizando HTML e CSS em 30 dias
 
 
 
-##  Desafio dia 6 - Não postado no mesmo dia por falta de luz. <a name="id06"></a>
+##  Desafio dia 6 - Squid animation <a name="id06"></a>
 
-![Dia 0]()
+![Dia 6](https://github.com/itsmiuwu/itsmiuwu/assets/124086216/ea58fefe-fff4-4847-b5ff-250b6c588a82)
 
+
+<p align="center">
+  <a href="https://github.com/itsmiuwu/30diasdeCSS/tree/main/desafios/dia6">Meu código</a>
+  <br>
+  <a></a>
+</p>
+
+
+##  Desafio dia  -  <a name=""></a>
 
 <p align="center">
   <a href="">Meu código</a>
   <br>
   <a></a>
 </p>
-
 
 
 
