@@ -84,7 +84,7 @@ Desafio: criar 30 mini projetos utilizando HTML e CSS em 30 dias
 </p>
 
 
-##  Desafio dia  -  <a name=""></a>
+##  Desafio em andamento  -  <a name=""></a>
 
 <p align="center">
   <a href="">Meu código</a>
